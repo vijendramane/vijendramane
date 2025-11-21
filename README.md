@@ -8,7 +8,7 @@
 <body> 
     <h1 align="center">Hi 👋, I'm Vijendra </h1>
   
- 
+  
 
 <p>Hi there! I'm an AI Engineer, designing and deploying machine learning solutions that drive real-world impact. My journey has taken me from data preprocessing and model training to developing scalable applications powered by deep learning and AI. I enjoy exploring the latest research, optimizing models for performance, and translating complex problems into innovative, efficient solutions.
 
