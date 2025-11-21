@@ -34,7 +34,8 @@ Feel free to explore my repositories and get in touch if you’d like to connect
 
 **Core Skills:**  
 - Large Language Models (LLMs)  
-- Generative AI  
+- Generative AI
+- Agentic AI
 - Machine Learning  
 - Deep Learning  
 - Neural Networks 
