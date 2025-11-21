@@ -12,7 +12,7 @@
 
 <p>Hi there! I'm an AI Engineer, designing and deploying machine learning solutions that drive real-world impact. My journey has taken me from data preprocessing and model training to developing scalable applications powered by deep learning and AI. I enjoy exploring the latest research, optimizing models for performance, and translating complex problems into innovative, efficient solutions.
 
-I’m passionate about collaborative projects and continuously learning new tools and techniques to stay at the forefront of technology. Whether it’s building cutting-edge neural networks or diving into data analytics, I’m always ready to tackle new challenges.
+I’m passionate about collaborative projects and continuously learning new tools and techniques to stay at the forefront of technology. Whether it’s building cutting-edge neural networks or diving into devlopment, I’m always ready to tackle new challenges.
 
 Feel free to explore my repositories and get in touch if you’d like to connect or collaborate on exciting AI projects!</p>
 
