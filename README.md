@@ -20,7 +20,7 @@ Feel free to explore my repositories and get in touch if you’d like to connect
 - 🔭 **Current Focus:** Working on cutting-edge Gen AI Systems and Large Language Models.
 - 💬 **Ask Me About:** Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning, and more.
 - 📝 **LinkedIn:** [vijendramane](https://www.linkedin.com/feed/)
-- 📝 **Blogs:** [vijendra mane on Medium](https://medium.com/@vijendramane1983)
+- 📝 **Blogs:** [vijendra on Medium](https://medium.com/@vijendramane1983)
 
 - 📫 **Get in Touch:**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&tf=0&to=vijendramane1983@gmail.com)
@@ -37,16 +37,16 @@ Feel free to explore my repositories and get in touch if you’d like to connect
 - Generative AI  
 - Machine Learning  
 - Deep Learning  
-- Natural Language Processing (NLP)  
+- Neural Networks 
 - Data Science  
 
 **Tech Stack:**  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Transformers  
-- **AI & NLP Tools:** LangChain, Llama-Index, OpenAI API, RAG, Fine-tuning, Agents, Crew AI, Open source LLMs  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Transformers 
+- **AI & Neural Networks:** LangChain, Llama-Index, OpenAI API, RAG, Fine-tuning, CNNs, RNNs, Crew AI, Open source LLMs  
 - **Database & Infrastructure:** Vector Databases, MySQL  
 - **Containerization & Orchestration:** Dockers, Airflow, GitHub Actions  
 - **Web Frameworks:** FastAPI, Flask  
-- **Cloud Platforms:** AWS, GCP, Azure  
+- **Cloud Platforms:** AWS, Azure  
 
 **AI Engineering:**  
 - End-to-end Machine Learning Pipeline Development  
