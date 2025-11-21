@@ -42,12 +42,13 @@ Feel free to explore my repositories and get in touch if you’d like to connect
 - Data Science  
 
 **Tech Stack:**  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Transformers 
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Transformers, pandas
 - **AI & Neural Networks:** LangChain, Llama-Index, OpenAI API, RAG, Fine-tuning, CNNs, RNNs, Crew AI, Open source LLMs  
 - **Database & Infrastructure:** Vector Databases, MySQL  
 - **Containerization & Orchestration:** Dockers, Airflow, GitHub Actions  
-- **Web Frameworks:** FastAPI, Flask  
-- **Cloud Platforms:** AWS, Azure  
+- **Web Frameworks:** FastAPI, Flask
+- **Backend:** Node.js, Typescript
+- **Frontend:** React.js, Next.js
 
 **AI Engineering:**  
 - End-to-end Machine Learning Pipeline Development  
