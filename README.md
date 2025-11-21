@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
  
 <body>
-    <h1 align="center">Hi 👋, I'm Vijendra </h1>
+    <h1 align="center">Hi 👋, I'm Vijendra </h1> 
  
 
 
