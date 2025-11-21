@@ -1,45 +1,37 @@
-# 👋 Hi, I'm **Vijendra Mane**
+<!DOCTYPE html>   
+<html lang="en"> 
+<head>
+    <meta charset="UTF-8">  
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+ 
+<body>
+    <h1 align="center">Hi 👋, I'm Vijendra Mane</h1>
 
-I'm an **AI Engineer** designing, building, and deploying scalable Machine Learning & Generative AI systems that create real-world impact. I love transforming complex ideas into practical, high-performance AI solutions.
 
----
 
-## 🚀 About Me
+<p>Hi there! I'm an AI Engineer, designing and deploying machine learning solutions that drive real-world impact. My journey has taken me from data preprocessing and model training to developing scalable applications powered by deep learning and AI. I enjoy exploring the latest research, optimizing models for performance, and translating complex problems into innovative, efficient solutions.
 
-Hi there! 👋 My journey in AI spans from **data preprocessing, model training, MLOps, scalable backend development** to building **Gen AI systems, RAG pipelines, and production-ready LLM applications**.
+I’m passionate about collaborative projects and continuously learning new tools and techniques to stay at the forefront of technology. Whether it’s building cutting-edge neural networks or diving into data analytics, I’m always ready to tackle new challenges.
 
-I’m always exploring cutting-edge research, optimizing models for performance, and converting problems into innovative solutions.
+Feel free to explore my repositories and get in touch if you’d like to connect or collaborate on exciting AI projects!</p>
 
-💡 I enjoy collaborating on impactful AI projects and continuously learning new tools & techniques to stay ahead in the AI landscape.
 
----
+- 🔭 **Current Focus:** Working on cutting-edge Gen AI Systems and Large Language Models.
+- 💬 **Ask Me About:** Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning, and more.
+- 📝 **LinkedIn:** [prajwalkrishna](https://www.linkedin.com/in/prajwalkrishna/)
+- 📝 **Blogs:** [praj2408 on Medium](https://medium.com/@praj2408)
 
-## 🎯 Current Focus
-- Building **next-gen Generative AI Systems**, **LLM applications**, and **Autonomous AI Agents**  
-- Working with **RAG**, **vector databases**, **fine-tuning**, and **high-performance model pipelines**
+- 📫 **Get in Touch:**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&tf=0&to=prajwalgbdr03@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mrpark2408)
 
----
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-## 💬 Ask Me About
-- Generative AI, LLMs, RAG Systems, Agentic Workflows  
-- Machine Learning & Deep Learning  
-- AI System Design, MLOps
-- Open-source LLMs & scalable AI architectures  
+<!-- <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
----
+# Skills
 
-## 🔗 Connect With Me
-- **LinkedIn:** [vijendramane](https://www.linkedin.com/feed/)  
-- **Blogs:** [vijendra on Medium](https://medium.com/)  
-- **Get in Touch:**  
-  <a href="mailto:your-vijendramane1983@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-
----
-
-# 🧠 Skills
-
-## Core Skills
+**Core Skills:**  
 - Large Language Models (LLMs)  
 - Generative AI  
 - Machine Learning  
@@ -47,39 +39,21 @@ I’m always exploring cutting-edge research, optimizing models for performance,
 - Natural Language Processing (NLP)  
 - Data Science  
 
----
-
-## Tech Stack
+**Tech Stack:**  
 - **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Transformers  
-- **AI & NLP Tools:** LangChain, LlamaIndex, OpenAI API, RAG, Fine-tuning, Agents, CrewAI, Open-source LLMs  
-- **Database & Infrastructure:** Vector DBs, MySQL  
-- **Containerization & Orchestration:** Docker, Airflow, GitHub Actions  
-- **Backend / Web:** FastAPI, Flask  
+- **AI & NLP Tools:** LangChain, Llama-Index, OpenAI API, RAG, Fine-tuning, Agents, Crew AI, Open source LLMs  
+- **Database & Infrastructure:** Vector Databases, MySQL  
+- **Containerization & Orchestration:** Dockers, Airflow, GitHub Actions  
+- **Web Frameworks:** FastAPI, Flask  
 - **Cloud Platforms:** AWS, GCP, Azure  
 
----
-
-## AI Engineering Expertise
+**AI Engineering:**  
 - End-to-end Machine Learning Pipeline Development  
 - Model Deployment & Scalability  
 - MLOps & CI/CD for AI Systems  
 - Performance Optimization & Monitoring  
-- Data Engineering & Workflow Automation  
+- Data Engineering & Workflow Automation
 
----
-
-# 📈 GitHub Stats
-
-> Replace the image URL with your own generated stat cards if needed  
-> (I can generate them too — just ask)
-
-![GitHub Stats](./assets/github_stats.gif)
-
----
-
-# 🛠️ Featured Projects  
-_(Add GIFs or images for your top 2–3 projects)_
-
----
-
-# 🔥 Contribution Streak  
+# GitHub Stats:
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=praj2408)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=praj2408&mode=weekly)](https://git.io/streak-stats)
