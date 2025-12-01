@@ -18,7 +18,7 @@ Feel free to explore my repositories and get in touch if you’d like to connect
 
 
 - 🔭 **Current Focus:** Working on cutting-edge Gen AI Systems and Large Language Models.
-- 💬 **Ask Me About:** Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning, and more.
+- 💬 **Ask Me About:** Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning, and physics.
 - 📝 **LinkedIn:** [vijendramane](https://www.linkedin.com/feed/)
 - 📝 **Blogs:** [vijendra on Medium](https://medium.com/@vijendramane1983)
 
