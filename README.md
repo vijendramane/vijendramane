@@ -17,7 +17,7 @@ I’m passionate about collaborative projects and continuously learning new tool
 Feel free to explore my repositories and get in touch if you’d like to connect or collaborate on exciting AI projects!</p>
 
 
-- 🔭 **Current Focus:** Working on cutting-edge Gen AI Systems and Large Language Models.
+- 🔭 **Current Focus:** Working on cutting-edge Agentic AI Systems and Large Language Models.
 - 💬 **Ask Me About:** Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning, and physics.
 - 📝 **LinkedIn:** [vijendramane](https://www.linkedin.com/feed/)
 - 📝 **Blogs:** [vijendra on Medium](https://medium.com/@vijendramane1983)
